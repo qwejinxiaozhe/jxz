@@ -1,0 +1,3 @@
+电影,#genre#
+虎牙,https://epg.pw/stream/ddd5b427db5db2b4b9f71b8efa5f5c4311c40644553f5b584ffcf7ec138327b8.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
