@@ -1,0 +1,3 @@
+电影,#genre#
+虎牙,https://hw.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=f62866ecbf3c449bbe0252ffe4311308&wsTime=6640514b&u=0&seqid=17154047537823070&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&txyp=o%3An4%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_6000,264_8000,&t=103
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
